@@ -1,0 +1,141 @@
+{
+  "strategic_alliances": [
+    {"name": "Microsoft", "angle": "strategic_partnership"},
+    {"name": "Amazon", "angle": "strategic_partnership"},
+    {"name": "X.ai", "angle": "strategic_partnership"}
+  ],
+  "top_tier_vcs": [
+    {"name": "Sequoia Capital", "angle": "series_a"},
+    {"name": "Andreessen Horowitz", "angle": "series_a"},
+    {"name": "Insight Partners", "angle": "series_a"},
+    {"name": "Accel", "angle": "series_a"},
+    {"name": "Greylock Partners", "angle": "series_a"},
+    {"name": "Kleiner Perkins", "angle": "series_a"},
+    {"name": "Thrive Capital", "angle": "series_a"},
+    {"name": "Lightspeed Venture Partners", "angle": "series_a"},
+    {"name": "Bessemer Venture Partners", "angle": "series_a"}
+  ],
+  "elite_firms": [
+    {"name": "Benchmark", "angle": "series_a"},
+    {"name": "Founders Fund", "angle": "series_a"},
+    {"name": "New Enterprise Associates", "angle": "series_a"},
+    {"name": "Battery Ventures", "angle": "series_a"},
+    {"name": "Menlo Ventures", "angle": "series_a"},
+    {"name": "GGV Capital", "angle": "series_a"},
+    {"name": "Costanoa Ventures", "angle": "series_a"},
+    {"name": "Coatue Management", "angle": "series_a"}
+  ],
+  "defense_national_security": [
+    {"name": "Lux Capital", "angle": "series_a"},
+    {"name": "8VC", "angle": "series_a"},
+    {"name": "Shield Capital", "angle": "series_a"},
+    {"name": "Red Cell Partners", "angle": "series_a"},
+    {"name": "New North Ventures", "angle": "series_a"},
+    {"name": "C5 Capital", "angle": "series_a"},
+    {"name": "SineWave Ventures", "angle": "series_a"},
+    {"name": "DataTribe", "angle": "series_a"}
+  ],
+  "sovereign_wealth": [
+    {"name": "SoftBank Vision Fund", "angle": "series_a"},
+    {"name": "Temasek Holdings", "angle": "series_a"},
+    {"name": "Mubadala Investment Company", "angle": "series_a"},
+    {"name": "Saudi Public Investment Fund", "angle": "series_a"},
+    {"name": "Qatar Investment Authority", "angle": "series_a"},
+    {"name": "European Investment Fund", "angle": "series_a"},
+    {"name": "UK Infrastructure Bank", "angle": "series_a"},
+    {"name": "Bpifrance", "angle": "series_a"},
+    {"name": "Korea Investment Corporation", "angle": "series_a"}
+  ],
+  "specialized_ai": [
+    {"name": "Zetta Venture Partners", "angle": "series_a"},
+    {"name": "BootstrapLabs", "angle": "series_a"},
+    {"name": "DCVC", "angle": "series_a"},
+    {"name": "Radical Ventures", "angle": "series_a"},
+    {"name": "Air Street Capital", "angle": "series_a"},
+    {"name": "Conviction Partners", "angle": "series_a"}
+  ],
+  "corporate_venture": [
+    {"name": "GV Google Ventures", "angle": "strategic_partnership"},
+    {"name": "Microsoft M12", "angle": "strategic_partnership"},
+    {"name": "Qualcomm Ventures", "angle": "strategic_partnership"},
+    {"name": "Nvidia Ventures", "angle": "strategic_partnership"},
+    {"name": "Databricks Ventures", "angle": "strategic_partnership"},
+    {"name": "AMD Ventures", "angle": "strategic_partnership"},
+    {"name": "Dell Technologies Capital", "angle": "strategic_partnership"}
+  ],
+  "corporate_strategic_enterprise": [
+    {"name": "ServiceNow Ventures", "angle": "strategic_partnership"},
+    {"name": "SAP.iO", "angle": "strategic_partnership"},
+    {"name": "Workday Ventures", "angle": "strategic_partnership"},
+    {"name": "Salesforce Ventures", "angle": "strategic_partnership"},
+    {"name": "Atlassian Ventures", "angle": "strategic_partnership"}
+  ],
+  "corporate_strategic_hardware": [
+    {"name": "Samsung NEXT", "angle": "strategic_partnership"},
+    {"name": "SK Telecom Ventures", "angle": "strategic_partnership"},
+    {"name": "Hitachi Ventures", "angle": "strategic_partnership"}
+  ],
+  "corporate_strategic_financial": [
+    {"name": "Goldman Sachs Growth", "angle": "strategic_partnership"},
+    {"name": "Citigroup Ventures", "angle": "strategic_partnership"},
+    {"name": "Capital One Ventures", "angle": "strategic_partnership"},
+    {"name": "American Express Ventures", "angle": "strategic_partnership"}
+  ],
+  "banking_insurance_consulting": [
+    {"name": "Munich Re Ventures", "angle": "strategic_partnership"},
+    {"name": "Swiss Re Strategic Ventures", "angle": "strategic_partnership"},
+    {"name": "Lloyds of London", "angle": "strategic_partnership"},
+    {"name": "Aon Ventures", "angle": "strategic_partnership"},
+    {"name": "Marsh McLennan Ventures", "angle": "strategic_partnership"},
+    {"name": "Bank of America Ventures", "angle": "strategic_partnership"},
+    {"name": "JPMorgan Chase Strategic Investments", "angle": "strategic_partnership"},
+    {"name": "Morgan Stanley Tactical Value", "angle": "strategic_partnership"},
+    {"name": "Visa Ventures", "angle": "strategic_partnership"},
+    {"name": "Mastercard Start Path", "angle": "strategic_partnership"},
+    {"name": "Deloitte Ventures", "angle": "strategic_partnership"},
+    {"name": "PwC Ventures", "angle": "strategic_partnership"},
+    {"name": "EY Foundry", "angle": "strategic_partnership"},
+    {"name": "KPMG Lighthouse", "angle": "strategic_partnership"}
+  ],
+  "multi_stage_investors": [
+    {"name": "Khosla Ventures", "angle": "series_a"},
+    {"name": "General Catalyst", "angle": "series_a"},
+    {"name": "Spark Capital", "angle": "series_a"},
+    {"name": "IVP", "angle": "series_a"},
+    {"name": "SignalFire", "angle": "series_a"},
+    {"name": "Tiger Global", "angle": "series_a"}
+  ],
+  "accelerators": [
+    {"name": "Y Combinator", "angle": "series_a"},
+    {"name": "Entrepreneur First", "angle": "series_a"}
+  ],
+  "private_equity": [
+    {"name": "Vista Equity Partners", "angle": "series_a"},
+    {"name": "Thoma Bravo", "angle": "series_a"},
+    {"name": "Blackstone", "angle": "series_a"},
+    {"name": "Warburg Pincus", "angle": "series_a"},
+    {"name": "EQT", "angle": "series_a"}
+  ],
+  "strategic_individuals": [
+    {"name": "Jensen Huang", "angle": "intro_request"},
+    {"name": "Demis Hassabis", "angle": "intro_request"},
+    {"name": "Sam Altman", "angle": "intro_request"},
+    {"name": "Nat Friedman", "angle": "angel_check"},
+    {"name": "Daniel Gross", "angle": "angel_check"},
+    {"name": "Peter Thiel", "angle": "angel_check"},
+    {"name": "Marc Andreessen", "angle": "angel_check"},
+    {"name": "Reid Hoffman", "angle": "angel_check"},
+    {"name": "Tom Preston-Werner", "angle": "angel_check"},
+    {"name": "Jeremy Howard", "angle": "angel_check"},
+    {"name": "Patrick Collison", "angle": "angel_check"},
+    {"name": "Matt Clifford", "angle": "intro_request"},
+    {"name": "Ian Hogarth", "angle": "intro_request"}
+  ],
+  "angel_investors": [
+    {"name": "Naval Ravikant", "angle": "angel_check"},
+    {"name": "Elad Gil", "angle": "angel_check"},
+    {"name": "Cyan Banister", "angle": "angel_check"},
+    {"name": "Balaji Srinivasan", "angle": "angel_check"},
+    {"name": "Kevin Mahaffey", "angle": "angel_check"}
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "fundry",
+  "version": "0.1.0",
+  "description": "Runcible fundraising agent system powered by Agentica",
+  "main": "dist/index.js",
+  "bin": {
+    "fundry": "./dist/index.js"
+  },
+  "scripts": {
+    "build": "tspc",
+    "start": "node dist/index.js",
+    "dev": "npm run build && npm run start",
+    "robot-help": "node dist/index.js --robot-help"
+  },
+  "keywords": [
+    "runcible",
+    "fundraising",
+    "agentica",
+    "ai-agent"
+  ],
+  "author": "Moritz Bierling",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@symbolica/agentica": "^0.3.0",
+    "@types/node": "^25.0.1",
+    "exa-js": "^2.0.11",
+    "ts-patch": "^3.3.0",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3",
+    "typescript-transform-paths": "^3.5.5"
+  }
+}

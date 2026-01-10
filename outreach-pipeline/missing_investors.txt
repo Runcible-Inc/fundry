@@ -1,0 +1,54 @@
+Amazon|strategic_partnership
+X.ai|strategic_partnership
+Sequoia Capital|series_a
+Andreessen Horowitz|series_a
+Insight Partners|series_a
+Accel|series_a
+Greylock Partners|series_a
+Kleiner Perkins|series_a
+Thrive Capital|series_a
+Lightspeed Venture Partners|series_a
+Bessemer Venture Partners|series_a
+Menlo Ventures|series_a
+GGV Capital|series_a
+Costanoa Ventures|series_a
+Coatue Management|series_a
+SoftBank Vision Fund|series_a
+Temasek Holdings|series_a
+Mubadala Investment Company|series_a
+Saudi Public Investment Fund|series_a
+Qatar Investment Authority|series_a
+European Investment Fund|series_a
+UK Infrastructure Bank|series_a
+Bpifrance|series_a
+Korea Investment Corporation|series_a
+Zetta Venture Partners|series_a
+BootstrapLabs|series_a
+DCVC|series_a
+Radical Ventures|series_a
+Air Street Capital|series_a
+Conviction Partners|series_a
+Khosla Ventures|series_a
+General Catalyst|series_a
+Spark Capital|series_a
+IVP|series_a
+SignalFire|series_a
+Tiger Global|series_a
+Vista Equity Partners|series_a
+Thoma Bravo|series_a
+Blackstone|series_a
+Warburg Pincus|series_a
+EQT|series_a
+Jensen Huang|intro_request
+Demis Hassabis|intro_request
+Sam Altman|intro_request
+Nat Friedman|angel_check
+Daniel Gross|angel_check
+Peter Thiel|angel_check
+Marc Andreessen|angel_check
+Reid Hoffman|angel_check
+Tom Preston-Werner|angel_check
+Jeremy Howard|angel_check
+Patrick Collison|angel_check
+Matt Clifford|intro_request
+Ian Hogarth|intro_request
